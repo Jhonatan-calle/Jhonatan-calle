@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 - **[Basic Server with Express](https://github.com/YourUsername/ExpressServer)**: A preliminary server handling GET, POST, DELETE, and PUT requests, showcasing backend knowledge.
 
 ## 📈 GitHub Stats
-![Jhonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourJhonatan-calle&show_icons=true&theme=dark)
+![Jhonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonatan-calle&show_icons=true&theme=dark)
 
 ## 📫 How to Reach Me
 - **Email**: youremail@example.com
