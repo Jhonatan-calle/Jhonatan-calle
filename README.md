@@ -44,7 +44,7 @@
 
 <td width="50%" align="center">
 
-![Horas escribiendo](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Horas escribiendo](https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanCalle)
   
   </td>
 </tr>
