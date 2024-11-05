@@ -67,6 +67,8 @@
   </a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌟 Personal Projects
 - **[Study Plan Generator](https://jhonatan-calle.github.io/planEstudio/index.html)**: A web app designed to help students create customized study plans based on course prerequisites and personal time availability.
