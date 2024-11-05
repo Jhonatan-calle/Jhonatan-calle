@@ -44,8 +44,7 @@
 
 <td width="50%" align="center">
 
-![Horas escribiendo](https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanCalle)
-  
+[![Jhonatan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=/@JhonatanCalle)](https://github.com/anuraghazra/github-readme-stats)  
   </td>
 </tr>
 </table>
