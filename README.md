@@ -64,7 +64,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,flutter,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,express,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,flutter,vscode&perline=14" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@
 ## 📫 How to Reach Me
 
 - **Email**: jhonatancallegaleano@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/jhonatan-calle-galeano/)
+- **LinkedIn**: [jhonatan-calle-galeano](https://www.linkedin.com/in/jhonatan-calle-galeano/)
 
 
 <!--icons and links-->
