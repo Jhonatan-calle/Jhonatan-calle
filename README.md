@@ -35,18 +35,16 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jhonatan-calle&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonatan-calle&theme=dark&hide_border=false" /> 
+
+  ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanCalle&hide=Markdown)
+
 </td>
 
-<td width="50%" align="center">
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanCalle&v=1)
-
-  </td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -68,8 +66,7 @@
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ## 🌟 Personal Projects
 - **[Study Plan Generator](https://jhonatan-calle.github.io/planEstudio/index.html)**: A web app designed to help students create customized study plans based on course prerequisites and personal time availability.
