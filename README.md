@@ -39,7 +39,7 @@
   
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonatan-calle&theme=dark&hide_border=false" /> 
 
-  ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanCalle&hide=Markdown)
+  <!---![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanCalle&hide=Markdown)-->
 
 </td>
 
