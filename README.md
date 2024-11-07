@@ -35,10 +35,8 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td align="center">
+<td width="100%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jhonatan-calle&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonatan-calle&theme=dark&hide_border=false" /> 
 
   ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanCalle&hide=Markdown)
