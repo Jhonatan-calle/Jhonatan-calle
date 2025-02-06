@@ -25,7 +25,7 @@
 
 - 📍 Based in Argentina.
 
--[![wakatime](https://wakatime.com/badge/user/0e911ba4-2359-423e-8d23-296e7236196b.svg)](https://wakatime.com/@0e911ba4-2359-423e-8d23-296e7236196b)
+-[![wakatime](https://wakatime.com/badge/user/0e911ba4-2359-423e-8d23-296e7236196b.svg)](https://wakatime.com/@0e911ba4-2359-423e-8d23-296e7236196b?style=social)
 
 
 <!--Intro end-->
